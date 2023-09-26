@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasperTresidder
-- 👀 I’m interested in Python, Machine learning, Local network devices, http requests, video, audio...
-- 🌱 I’m Woring for Massive Analytic Ltd.
+- 👀 I’m interested in Python, Pygame, Machine learning, Local network devices, http requests, video, audio...
+- 🌱 I’m Job searching currently.
 - 💞️ I’m looking to collaborate on python projects. 
 - 📫 How to reach me jasper.tresidder@gmail.com
 
